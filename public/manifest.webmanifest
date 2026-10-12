@@ -1,0 +1,19 @@
+{
+  "name": "Cityport Hotel Misafir Uygulaması",
+  "short_name": "Cityport Hotel",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f2eee5",
+  "theme_color": "#193c49",
+  "lang": "tr",
+  "description": "Cityport Hotel misafir hizmetleri ve bildirimleri",
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "https://cityporthotel.com/wp-content/uploads/2021/04/city-port-mini-1.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
